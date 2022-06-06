@@ -1,0 +1,6 @@
+/Users/ekaterinaslivinskaa/Projects/Bank/Bank/bin/Debug/Bank.exe
+/Users/ekaterinaslivinskaa/Projects/Bank/Bank/bin/Debug/Bank.pdb
+/Users/ekaterinaslivinskaa/Projects/Bank/Bank/obj/Debug/Bank.csprojAssemblyReference.cache
+/Users/ekaterinaslivinskaa/Projects/Bank/Bank/obj/Debug/Bank.csproj.CoreCompileInputs.cache
+/Users/ekaterinaslivinskaa/Projects/Bank/Bank/obj/Debug/Bank.exe
+/Users/ekaterinaslivinskaa/Projects/Bank/Bank/obj/Debug/Bank.pdb
